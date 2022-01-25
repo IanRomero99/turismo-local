@@ -312,7 +312,7 @@ footer p {
 
 #img-Omicron {
     height: 15vh;
-    background-image: url("../img/omicron.jpg.crdownload");
+    background-image: url("../img/omicron.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -379,6 +379,6 @@ footer p {
         position: relative;
     }
     .padding-f {
-        padding: 17svw;
+        padding: 17vw;
     }
 }
